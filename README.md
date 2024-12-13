@@ -1,1 +1,2 @@
-Netflix for analysis
+#Netflix for analysis
+--Индивидуальное заданик
